@@ -1,2 +1,2 @@
 # MushroomEatBot
-A Telegram bot for determining the edibility of a mushroom based on user-entered characteristics
+The project involves developing an ML model for classifying mushrooms and creating a Telegram bot for user interaction. The bot allows users to select mushroom characteristics and receive the result: poisonous mushroom or edible.

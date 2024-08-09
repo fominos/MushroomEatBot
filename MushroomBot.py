@@ -424,7 +424,6 @@ async def get_habitat(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int
             reply_markup=ReplyKeyboardMarkup(
                 reply_keyboard, one_time_keyboard=True),
         )
-        data_user['does-bruise-or-bleed'] = [hasringdict[update.message.text]]
         return HABITAT
 
 
